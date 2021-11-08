@@ -1,0 +1,39 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    text-transform: capitalize;
+    transition: all 1s;
+}
+
+.all h1 {
+    text-align: center;
+}
+
+.all p.body, .all p.com {
+    text-align: justify;
+    color: black;
+}
+
+.all span {
+    color: rgb(34, 122, 151);
+}
+.all p.creby {
+    text-align: right;
+    color: black;
+}
+section.each{
+    border: 1px solid black;
+    padding: 1em;
+}
+
+p.button {
+    text-align: center;
+    cursor: pointer;
+    transition: all 1s;
+}
+p.button:hover {
+    color: rgb(16, 72, 145);
+    transition: all 1s;
+}
+.cre {
+    text-align: right;
+}
